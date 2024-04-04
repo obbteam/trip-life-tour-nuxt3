@@ -3,7 +3,7 @@
     <TourHero />
     <FallTravel />
     <FallSection /> 
-    <UzbWorld />
+    <UzbWorld class="mb-10"> </UzbWorld>
     <!-- <TourList /> -->
   </div>
 </template>

@@ -11,10 +11,6 @@
       </div>
       <a href="" class="tile-btn">See all</a>
     </div>
-    <div class="grid grid-cols-12 grid-rows-3">
-      <div class="col-span-5">asdasdasd</div>
-      <div class="col-span-7">aslkjglkj</div>
-    </div>
   </div>
 </template>
 
