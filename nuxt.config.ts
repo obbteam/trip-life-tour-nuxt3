@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     global: true
   }],
   app: {
-    baseURL: '/trip-life-tour-nuxt3/',
+    baseURL: '/',
     buildAssetsDir: 'assets'
   },
   css: ["~/assets/styles/main.css", "~/assets/styles/media.css"],
